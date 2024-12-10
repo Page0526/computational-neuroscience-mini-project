@@ -3,12 +3,13 @@ Sinh viên được yêu cầu lựa chọn một loại tín hiệu đáp ứng
 
 Format báo cáo kết quả:
 
-Mô tả về loại tín hiệu đáp ứng não, tác vụ BCI, phương pháp phân loại được sử dụng
-Mô tả về chương trình
-Link code và quá trình cài đặt chương trình
-Mô tả tập dữ liệu sử dụng
-Kết quả và phân tích
-Độ dài báo cáo: Tối thiểu 3 trang, cỡ chữ 12 Times New Roman
+- Mô tả về loại tín hiệu đáp ứng não, tác vụ BCI, phương pháp phân loại được sử dụng
+- Mô tả về chương trình
+- Link code và quá trình cài đặt chương trình
+- Mô tả tập dữ liệu sử dụng
+- Kết quả và phân tích
+- Độ dài báo cáo: Tối thiểu 3 trang, cỡ chữ 12 Times New Roman
+
 Lưu ý:
 
 Sinh viên có thể dùng máy tính vật lý hoặc máy ảo (ví dụ, Google Colab) để cài đặt và chạy chương trình
